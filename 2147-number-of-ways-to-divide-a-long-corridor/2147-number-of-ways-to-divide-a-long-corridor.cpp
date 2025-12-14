@@ -1,35 +1,24 @@
 class Solution {
 public:
     int numberOfWays(string corridor) {
-        int mod = pow(10,9) + 7;
-        long long ans = 1;
-        int temp = 0;
-        int count = 0;
-        for(int i = 0; i < corridor.length(); i++){
-            if(count != 2){
-                if(corridor[i]=='S'){
-                    count++;
-                }
-            }
-            else{
-                if(corridor[i]=='S'){
-                    temp++;
-                    ans *= temp;
-                    ans %= mod;
-                    count = 1;
-                    temp = 0;
+        const int MOD=1e9+7;
+        int seat=0,plant=0;
+        long long res=1;
+             for(char ch:corridor){
+                if(seat!=2){
+                    if(ch=='S') seat++;
                 }
                 else{
-                    temp++;
-                }
-            }
-
-        }
-        if(count != 2){
-            return 0;
-        }
-        else{
-            return ans;
-        }
+                    if(ch=='S'){
+                        plant++;
+                        res*=plant;
+                        res%=MOD;
+                        seat=1;
+                        plant=0;
+                    }
+                    else plant++;
+               }  
+       }
+       return seat!=2?0:res;
     }
 };
