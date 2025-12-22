@@ -1,6 +1,2 @@
-Select d.name as department , e1.name as employee, e1.salary as Salary
-From Employee e1 join Department d on e1.DepartmentId = d.Id
-Where  3 > (select count(distinct (e2.Salary))
-            from  Employee e2
-            where e2.Salary > e1.Salary
-            and e1.DepartmentId = e2.DepartmentId)
+delete p1 from person p1,person p2 
+where p1.email=p2.email and p1.id>p2.id;
