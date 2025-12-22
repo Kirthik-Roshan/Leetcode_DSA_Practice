@@ -1,13 +1,6 @@
-SELECT
-    s.user_id,
-    ISNULL(
-        ROUND(
-            SUM(CASE WHEN c.action = 'confirmed' THEN 1 ELSE 0 END) * 1.0
-            / NULLIF(COUNT(c.action), 0),
-        2),
-        0
-    ) AS confirmation_rate
-FROM Signups s
-LEFT JOIN Confirmations c
-    ON s.user_id = c.user_id
-GROUP BY s.user_id;
+/* Write your PL/SQL query statement below */
+SELECT S.user_id, ROUND(AVG(CASE WHEN (C.action='confirmed') THEN 1 
+
+ELSE 0 END),2) AS confirmation_rate FROM Signups S LEFT OUTER JOIN 
+
+Confirmations C ON S.user_id=C.user_id GROUP BY S.user_id
