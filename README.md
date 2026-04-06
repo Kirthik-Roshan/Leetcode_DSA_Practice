@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Backtracking
