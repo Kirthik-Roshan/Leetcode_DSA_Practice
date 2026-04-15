@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2906-construct-product-matrix/) | Medium |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
