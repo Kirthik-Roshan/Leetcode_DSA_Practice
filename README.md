@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
