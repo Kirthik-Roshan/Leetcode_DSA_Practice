@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
