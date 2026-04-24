@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
