@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
