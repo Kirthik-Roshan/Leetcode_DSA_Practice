@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
