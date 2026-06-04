@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Number Theory
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
