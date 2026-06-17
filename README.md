@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
