@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
