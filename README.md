@@ -201,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
