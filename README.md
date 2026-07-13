@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1212-sequential-digits) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
