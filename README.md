@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
