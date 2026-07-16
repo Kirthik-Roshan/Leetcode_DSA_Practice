@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
