@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1256-rank-transform-of-an-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [1622-fancy-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
