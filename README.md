@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -346,4 +349,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
