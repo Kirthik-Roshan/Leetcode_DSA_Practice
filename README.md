@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
