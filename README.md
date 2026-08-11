@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -368,14 +370,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
