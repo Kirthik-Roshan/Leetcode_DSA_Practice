@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -60,8 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
@@ -79,15 +80,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -97,8 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -116,8 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -136,13 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -156,8 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2615-sum-of-distances](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2615-sum-of-distances/) | Medium |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -174,13 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [4107-find-missing-elements](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4107-find-missing-elements) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -197,8 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -212,12 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -226,40 +228,41 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1622-fancy-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1622-fancy-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1622-fancy-sequence/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -267,47 +270,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1212-sequential-digits](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1212-sequential-digits) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1306-jump-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -315,16 +318,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1306-jump-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -333,39 +336,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
