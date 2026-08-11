@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1306-jump-game-iii/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -362,13 +366,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
