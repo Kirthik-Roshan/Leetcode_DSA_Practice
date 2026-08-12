@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2615-sum-of-distances](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/2615-sum-of-distances/) | Medium |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Game Theory
 |  |
 | ------- |
@@ -387,7 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
