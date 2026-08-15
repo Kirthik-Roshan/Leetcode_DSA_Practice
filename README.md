@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -390,7 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Kirthik-Roshan/Leetcode_DSA_Practice/tree/master/1617-stone-game-iv) |
